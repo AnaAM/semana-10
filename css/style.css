@@ -1,0 +1,39 @@
+body {
+  background-color: #01DFD7;
+  font-family: 'Suez One', serif;
+}
+ header {
+  font-size: 100px;
+  font-family:'Suez One';
+  margin-top: 40px;
+  text-align: center;
+  background-color: #8A0829;
+  height: 100px;
+  color: white;
+ }
+section {
+  display: flex;
+  margin:20px;
+}
+
+article {
+  padding: 40px;
+  text-align: center;
+  border: 10px solid #DF7401;
+  width: 50%;
+  margin-top: 30 px;
+  background-color:#F2F5A9;
+
+}
+article img {
+  border-radius: 50%;
+  width: 150px;
+}
+
+p {
+  font-family:Georgia;
+  font-size: 20px;
+  margin-top: 35px;
+  padding-left: 2px;
+  word-spacing: 7px;
+}
